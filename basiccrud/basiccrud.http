@@ -1,0 +1,6 @@
+@basiccrud_HostAddress = http://localhost:5169
+
+GET {{basiccrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
